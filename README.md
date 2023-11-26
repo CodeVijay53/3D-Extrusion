@@ -2,8 +2,6 @@
 
 Welcome to the Babylon.js Interactive Scene! This project demonstrates an interactive 3D scene using the powerful Babylon.js framework combined with React and Next.js.
 
-The live version of the Project is deployed on vercel and can be found [here](https://uttejk-2d-extrusion.vercel.app/).
-
 ## Features
 
 - Draw Polygons: Use the "Draw" button to draw polygons on the ground. Left-click to place points, and right-click to complete the polygon.
@@ -13,13 +11,7 @@ The live version of the Project is deployed on vercel and can be found [here](ht
 
 ## How to Use
 
-1. Clone the repository to your local machine using
-
-   `git clone https://github.com/UttejK/2D-ExtrudeMesh.git`
-
-   this part is already done if you have a .zip file and you should proceed from here...
-
-2. Install the required dependencies using npm or yarn:
+1. Install the required dependencies using npm or yarn:
 
 ```bash
 npm install
@@ -27,7 +19,7 @@ npm install
 yarn
 ```
 
-3. Start the development server:
+2. Start the development server:
 
 ```bash
 npm run dev
@@ -35,7 +27,7 @@ npm run dev
 yarn dev
 ```
 
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the Babylon.js scene.
+3. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the Babylon.js scene.
 
 ## Interacting with the Scene
 
